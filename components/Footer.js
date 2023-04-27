@@ -76,7 +76,7 @@ export default function Footer() {
               zIndex: -1,
             }}
           >
-            <NextLink href="/">🤝SecureFund</NextLink>
+            <NextLink href="/">🤝SecureDonation</NextLink>
           </Box>
         </Heading>
         <Stack direction={"row"} spacing={6}>
@@ -89,7 +89,7 @@ export default function Footer() {
           >
             Github
           </Link>
-          <Link href={"mailto:zthb555@gmail.com"} isExternal>
+          <Link href={"mailto:sid.dya.rt20@rait.ac.in"} isExternal>
             Contact
           </Link>
         </Stack>
